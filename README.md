@@ -4,7 +4,7 @@ Anvendelse
 ```
 ./indlever -h
 ```
-
+deliver
 Indlevere en folder med konti-indberetninger
 ```
 ./indlever folder
